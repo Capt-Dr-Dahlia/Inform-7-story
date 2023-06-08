@@ -13,7 +13,7 @@ Understand "Pick up [something]" and "take [something]" as picking up.
 Picking up is an action applying to one visible thing.
 
 Carry out picking up the Gem:
-	say "You pick up the blood red gem, it shines ominously in your hand. Something moves serpentine inside it."
+	say "You pick up the blood red gem, it shines ominously in your hand. Something moves serpentine inside it, waiting for inspection."
 
 Understand "look at [something]" and "inspect [something]" as looking at.
 
